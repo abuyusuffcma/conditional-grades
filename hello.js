@@ -1,0 +1,10 @@
+var bananaPrice = 12;
+console.log(typeof bananaPrice);
+var seeAfter = 21;
+console.log(seeAfter);
+var name = "Md. Abu Yususf";
+console.log(typeof name);
+var value = true;
+console.log(typeof value);
+var hot = false;
+console.log(typeof hot);
